@@ -1,0 +1,10 @@
+.background{
+    background-image: url(src\assets\Images\medicine-bg1.jpg);
+    height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 100%;
+}

@@ -1,0 +1,43 @@
+.carousel-inner img {
+    width: 50%;
+    height: 250px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.80;
+  
+}
+
+.input-group-text img {
+    width: 20px;
+    height: 20px;
+}
+
+
+h4 {
+    text-align: center;
+    background: -webkit-linear-gradient(#eee, rgb(13, 120, 219));
+    -webkit-background-clip: text;
+     background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  h3,h6
+  {
+    background: -webkit-linear-gradient(white,white);
+    -webkit-background-clip: text;
+     background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.input-group-text{
+    color: rgb(13, 120, 219);
+}
+
+.background{
+    background-image: url(src\assets\Images\medicine-bg.jpg);
+    height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
